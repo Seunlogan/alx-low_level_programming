@@ -7,7 +7,7 @@
 */
 
 int _isupper(int c)
-{cat
+{
 	if ((c >= 'A') && (c <= 'Z'))
 	{
 		return (1);
